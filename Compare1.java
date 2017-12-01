@@ -1,24 +1,12 @@
-
-/**
- * Write a description of class Compare1 here.
- *
- * @author (your name)
- * @version (a version number or a date)
- */
-public class Compare1 implements Comparable<String>
-{
+public class Compare1 {
     // instance variables - replace the example below with your own
-    private int x;
-
-    /**
-     * Constructor for objects of class Compare1
-     */
-    public Compare1()
-    {
-        // initialise instance variables
-        
-    }
-    public in {
-        
+    private String s1;
+    public static String largest(String st1, String st2) {
+        if (st1.compareTo(st2) > 0) {
+            return st1;
+        }
+        else {
+            return st2;
+        }
     }
 }
