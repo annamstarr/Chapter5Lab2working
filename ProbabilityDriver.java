@@ -4,7 +4,6 @@ public class ProbabilityDriver {
         Probability p2 = new Probability(5,10);
         p1.probabilityAND(p2);
         p1.compareTo(p2);
-        
     }
     
 }
