@@ -1,4 +1,4 @@
-
+package Chapter5Lab2;
 
 public class Compare2
 {

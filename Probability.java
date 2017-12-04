@@ -1,3 +1,4 @@
+package Chapter5Lab2;
 
 public class Probability implements ProbabilityCalc, Comparable<Probability> {
     // instance variables - replace the example below with your own

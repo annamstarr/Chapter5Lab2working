@@ -1,4 +1,6 @@
-public class CompareDriver
+package Chapter5Lab2;
+
+public class Comparisons
 {
     public static void main(String[] args) {
         String st1 = new String("hi");

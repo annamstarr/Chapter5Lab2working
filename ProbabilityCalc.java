@@ -1,3 +1,5 @@
+package Chapter5Lab2;
+
 public interface ProbabilityCalc{
     /**
      * This uses the current Probability object (this) and a second Probability object
